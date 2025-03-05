@@ -1,4 +1,4 @@
-name: MyMLflow
+name: MyMLflowProject
 
 conda_env: conda.yaml  # You can also use docker_env if needed (we're skipping Docker)
 
