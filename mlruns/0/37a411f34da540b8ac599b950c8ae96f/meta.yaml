@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/37a411f34da540b8ac599b950c8ae96f/artifacts
+deleted_time: 1741182346864
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 37a411f34da540b8ac599b950c8ae96f
 run_name: powerful-conch-218
 run_uuid: 37a411f34da540b8ac599b950c8ae96f

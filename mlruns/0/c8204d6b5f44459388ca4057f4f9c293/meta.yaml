@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/c8204d6b5f44459388ca4057f4f9c293/artifacts
+deleted_time: 1741182346920
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c8204d6b5f44459388ca4057f4f9c293
 run_name: abrasive-worm-801
 run_uuid: c8204d6b5f44459388ca4057f4f9c293

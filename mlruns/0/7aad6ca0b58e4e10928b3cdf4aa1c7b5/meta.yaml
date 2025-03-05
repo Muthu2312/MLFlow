@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/7aad6ca0b58e4e10928b3cdf4aa1c7b5/artifacts
+deleted_time: 1741182346972
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7aad6ca0b58e4e10928b3cdf4aa1c7b5
 run_name: classy-mink-264
 run_uuid: 7aad6ca0b58e4e10928b3cdf4aa1c7b5

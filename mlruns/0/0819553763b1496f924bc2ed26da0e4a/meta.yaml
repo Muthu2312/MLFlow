@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/0819553763b1496f924bc2ed26da0e4a/artifacts
+deleted_time: 1741182346933
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0819553763b1496f924bc2ed26da0e4a
 run_name: peaceful-kit-116
 run_uuid: 0819553763b1496f924bc2ed26da0e4a

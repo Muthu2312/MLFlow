@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/b49395e2bce3420c9839669d69769f2f/artifacts
+deleted_time: 1741182346980
 end_time: 1741180506564
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b49395e2bce3420c9839669d69769f2f
 run_name: languid-flea-790
 run_uuid: b49395e2bce3420c9839669d69769f2f

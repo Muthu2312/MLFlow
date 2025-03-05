@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/64cc35c1207544ad8f72086d5fa5da72/artifacts
+deleted_time: 1741182346904
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 64cc35c1207544ad8f72086d5fa5da72
 run_name: amusing-bass-523
 run_uuid: 64cc35c1207544ad8f72086d5fa5da72

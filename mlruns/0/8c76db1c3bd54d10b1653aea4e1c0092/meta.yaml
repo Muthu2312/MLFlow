@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/8c76db1c3bd54d10b1653aea4e1c0092/artifacts
+deleted_time: 1741182346882
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8c76db1c3bd54d10b1653aea4e1c0092
 run_name: traveling-sponge-128
 run_uuid: 8c76db1c3bd54d10b1653aea4e1c0092

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/3453d264a27243c08f3b5000e770505c/artifacts
+end_time: 1741182656962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3453d264a27243c08f3b5000e770505c
+run_name: abundant-rat-338
+run_uuid: 3453d264a27243c08f3b5000e770505c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741182645057
+status: 3
+tags: []
+user_id: Muthu

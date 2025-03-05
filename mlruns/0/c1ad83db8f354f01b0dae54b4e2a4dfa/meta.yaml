@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/c1ad83db8f354f01b0dae54b4e2a4dfa/artifacts
+deleted_time: 1741182346920
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c1ad83db8f354f01b0dae54b4e2a4dfa
 run_name: bittersweet-fly-679
 run_uuid: c1ad83db8f354f01b0dae54b4e2a4dfa

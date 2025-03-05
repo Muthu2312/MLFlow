@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/90e984b6882c4b1292fe5ec1db8d55d3/artifacts
+deleted_time: 1741182346954
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 90e984b6882c4b1292fe5ec1db8d55d3
 run_name: intrigued-moth-260
 run_uuid: 90e984b6882c4b1292fe5ec1db8d55d3

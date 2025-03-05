@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/509e5d6ee2b5468ab6b929bed80e7761/artifacts
+deleted_time: 1741182346945
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 509e5d6ee2b5468ab6b929bed80e7761
 run_name: delicate-smelt-766
 run_uuid: 509e5d6ee2b5468ab6b929bed80e7761

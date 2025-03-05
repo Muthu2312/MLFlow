@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/37833c438cbc45f19fc6a47d9ccd6ebd/artifacts
+deleted_time: 1741182346936
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 37833c438cbc45f19fc6a47d9ccd6ebd
 run_name: bright-moth-441
 run_uuid: 37833c438cbc45f19fc6a47d9ccd6ebd

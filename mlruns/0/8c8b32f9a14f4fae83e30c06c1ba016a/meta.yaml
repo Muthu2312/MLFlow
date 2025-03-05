@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/8c8b32f9a14f4fae83e30c06c1ba016a/artifacts
+deleted_time: 1741182346975
 end_time: 1741180560149
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8c8b32f9a14f4fae83e30c06c1ba016a
 run_name: enthused-newt-412
 run_uuid: 8c8b32f9a14f4fae83e30c06c1ba016a

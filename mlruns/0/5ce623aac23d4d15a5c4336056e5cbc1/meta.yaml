@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/5ce623aac23d4d15a5c4336056e5cbc1/artifacts
+deleted_time: 1741182346845
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5ce623aac23d4d15a5c4336056e5cbc1
 run_name: big-skink-96
 run_uuid: 5ce623aac23d4d15a5c4336056e5cbc1

@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/c5618e7c0a2c477993560f07ac4c81c5/artifacts
+deleted_time: 1741182346851
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c5618e7c0a2c477993560f07ac4c81c5
 run_name: dazzling-pug-194
 run_uuid: c5618e7c0a2c477993560f07ac4c81c5

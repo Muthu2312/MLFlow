@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/8ef524f112ea4f09a832abc5f5b5db66/artifacts
+deleted_time: 1741182346909
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8ef524f112ea4f09a832abc5f5b5db66
 run_name: likeable-carp-979
 run_uuid: 8ef524f112ea4f09a832abc5f5b5db66

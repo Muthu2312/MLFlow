@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741182288733
+current_stage: None
+description: ''
+last_updated_timestamp: 1741182288733
+name: First Model
+run_id: 138a121cacab41f6b52a57dbf11d295b
+run_link: ''
+source: file:///D:/MLFlow/MLFlow/mlruns/0/138a121cacab41f6b52a57dbf11d295b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/MLFlow/MLFlow/mlruns/0/138a121cacab41f6b52a57dbf11d295b/artifacts/model
+user_id: null
+version: 1
