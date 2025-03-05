@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/f7527ee8e5c84256a6175a15b0391ee7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7527ee8e5c84256a6175a15b0391ee7
+run_name: salty-fox-157
+run_uuid: f7527ee8e5c84256a6175a15b0391ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181637815
+status: 1
+tags: []
+user_id: Muthu

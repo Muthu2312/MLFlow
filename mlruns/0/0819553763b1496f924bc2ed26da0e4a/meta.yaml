@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/0819553763b1496f924bc2ed26da0e4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0819553763b1496f924bc2ed26da0e4a
+run_name: peaceful-kit-116
+run_uuid: 0819553763b1496f924bc2ed26da0e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181511180
+status: 1
+tags: []
+user_id: Muthu

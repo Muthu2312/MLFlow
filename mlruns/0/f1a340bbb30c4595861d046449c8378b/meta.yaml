@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/f1a340bbb30c4595861d046449c8378b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a340bbb30c4595861d046449c8378b
+run_name: upset-crow-209
+run_uuid: f1a340bbb30c4595861d046449c8378b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181678666
+status: 1
+tags: []
+user_id: Muthu

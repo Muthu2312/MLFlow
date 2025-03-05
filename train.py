@@ -1,6 +1,7 @@
 import argparse
 import mlflow
 import mlflow.sklearn
+from math import sqrt
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -32,7 +33,10 @@ with mlflow.start_run():
 
     # Predict and evaluate
     y_pred = model.predict(X_test)
-    rmse = mean_squared_error(y_test, y_pred, squared=False)
+
+    mse = mean_squared_error(y_test, y_pred)
+    rmse = sqrt(mse)
+
     r2 = r2_score(y_test, y_pred)
 
     # Log metrics

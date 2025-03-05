@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/944114503ebc4cbbb91c42f5d75094a2/artifacts
+end_time: 1741181977622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944114503ebc4cbbb91c42f5d75094a2
+run_name: bright-kit-736
+run_uuid: 944114503ebc4cbbb91c42f5d75094a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181968556
+status: 4
+tags: []
+user_id: Muthu

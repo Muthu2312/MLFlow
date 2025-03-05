@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/c5618e7c0a2c477993560f07ac4c81c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5618e7c0a2c477993560f07ac4c81c5
+run_name: dazzling-pug-194
+run_uuid: c5618e7c0a2c477993560f07ac4c81c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181722260
+status: 1
+tags: []
+user_id: Muthu

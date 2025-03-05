@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/8ef524f112ea4f09a832abc5f5b5db66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ef524f112ea4f09a832abc5f5b5db66
+run_name: likeable-carp-979
+run_uuid: 8ef524f112ea4f09a832abc5f5b5db66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181662893
+status: 1
+tags: []
+user_id: Muthu

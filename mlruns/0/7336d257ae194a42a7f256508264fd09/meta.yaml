@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/7336d257ae194a42a7f256508264fd09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7336d257ae194a42a7f256508264fd09
+run_name: delightful-skink-929
+run_uuid: 7336d257ae194a42a7f256508264fd09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181538605
+status: 1
+tags: []
+user_id: Muthu

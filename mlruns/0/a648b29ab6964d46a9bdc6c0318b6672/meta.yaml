@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/a648b29ab6964d46a9bdc6c0318b6672/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a648b29ab6964d46a9bdc6c0318b6672
+run_name: bemused-roo-586
+run_uuid: a648b29ab6964d46a9bdc6c0318b6672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181668484
+status: 1
+tags: []
+user_id: Muthu

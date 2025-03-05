@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/772df5e289f34d41aaaecda2760cc248/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 772df5e289f34d41aaaecda2760cc248
+run_name: able-whale-356
+run_uuid: 772df5e289f34d41aaaecda2760cc248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741179890152
+status: 1
+tags: []
+user_id: Muthu

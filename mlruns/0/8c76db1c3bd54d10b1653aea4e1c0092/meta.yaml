@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/MLFlow/mlruns/0/8c76db1c3bd54d10b1653aea4e1c0092/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c76db1c3bd54d10b1653aea4e1c0092
+run_name: traveling-sponge-128
+run_uuid: 8c76db1c3bd54d10b1653aea4e1c0092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741181682261
+status: 1
+tags: []
+user_id: Muthu
