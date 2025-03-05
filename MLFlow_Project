@@ -1,1 +1,12 @@
+name: MyMLflow
+
+conda_env: conda.yaml  # You can also use docker_env if needed (we're skipping Docker)
+
+entry_points:
+  main:
+    parameters:
+      alpha: {type: float, default: 0.5}
+      l1_ratio: {type: float, default: 0.1}
+    command: >
+      python train.py --alpha {alpha} --l1_ratio {l1_ratio}
 
